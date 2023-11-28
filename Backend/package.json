@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js",
-    "build":"npm"
+    "build":"npm run build-script"
   },
   "author": "end to end",
   "license": "ISC",
